@@ -1,42 +1,54 @@
-<!-- Header Banner -->
+<!-- 🌊 Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
-<h1 align="center">Hi, I'm EtheSonX082531</h1>
+<h1 align="center">Hi, I'm <span style="color:#1E90FF;">EtheSonX082531</span></h1>
 
 <p align="center">
-  <b>Student</b> | <b>Android Developer (in training)</b> | <b>Tech Enthusiast</b>
+  Student • Aspiring Android Developer • Tech Enthusiast
 </p>
 
-<p align="center" style="max-width: 700px;">
-  I'm currently focused on Android development using Java and XML. I enjoy solving real-world problems through mobile applications, learning new technologies, and continuously improving my software development skills.
+<p align="center">
+  Focused on building clean, user-friendly mobile apps with <strong>Java</strong>, <strong>XML</strong>, and <strong>Firebase</strong>. Always eager to learn, explore, and create.
 </p>
 
 ---
 
-<h2>🛠️ Technical Skills</h2>
+<h2>⚙️ Tech Stack</h2>
 
-<p>
-  <strong>Languages:</strong> Java, XML<br/>
-  <strong>Mobile Development:</strong> Android Studio, Firebase (Realtime Database, Auth)<br/>
-  <strong>Tools:</strong> Git, GitHub, Gradle<br/>
-  <strong>Currently Learning:</strong> RESTful APIs, Firebase Cloud Functions, Material Design, UI/UX for Android
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-%23e44d26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-<h2>📊 GitHub Analytics</h2>
+<h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EtheSonX082531&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EtheSonX082531&show_icons=true&theme=dracula&hide_border=true" alt="stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtheSonX082531&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtheSonX082531&layout=compact&theme=dracula&hide_border=true" alt="langs"/>
 </p>
 
 ---
 
-<h2>📬 Get in Touch</h2>
+<h2>🔭 Currently Exploring</h2>
+
+<ul>
+  <li>Building Android apps with Firebase (Auth, Realtime DB)</li>
+  <li>Creating modern UIs using Material Design</li>
+  <li>Implementing RESTful APIs in mobile projects</li>
+</ul>
+
+---
+
+<h2>📬 Contact</h2>
 
 <ul>
   <li>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
@@ -45,9 +57,17 @@
 
 ---
 
-<p align="center"><i>"Strive for progress, not perfection."</i></p>
+<h2 align="center">📌 Developer Workflow</h2>
 
-<!-- Footer Banner -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EtheSonX082531&bg_color=ffffff&color=1E90FF&line=00BFFF&point=0072ff&area=true&hide_border=true"/>
+</p>
+
+---
+
+<p align="center"><i>“Clean code is not written, it is rewritten.”</i></p>
+
+<!-- 🌊 Animated Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer"/>
 </p>
