@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header banner"/>
 </p>
 
-<h1 align="center">👋 Hey there! I'm <span style="color:#0072ff;">EtheSonX082531</span></h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#0072ff;">Anik Roy</span></h1>
 
 <p align="center">
   🎓 <b>Student</b> • 💻 <b>Android Developer in progress</b> • 🌱 <b>Lifelong Learner</b><br/>
