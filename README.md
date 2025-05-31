@@ -60,7 +60,7 @@
 <h2>🌐 Connect with Me</h2>
 
 <ul>
-  <li>📧 <b>Email:</b> <a href="mailto:roy082531@gmail.com">youremail@example.com</a></li>
+  <li>📧 <b>Email:</b> <a href="mailto:roy082531@gmail.com">roy082531@gmail.com</a></li>
   <li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/">Your LinkedIn Profile</a></li>
   <li>🧠 <b>Fun Fact:</b> I love learning by building — every bug is a puzzle waiting to be solved!</li>
 </ul>
