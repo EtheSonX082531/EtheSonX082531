@@ -1,75 +1,71 @@
-<!-- Header Banner -->
+<!-- 🌊 Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="GitHub Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header banner"/>
 </p>
 
-<h1 align="center">👋 Hello there! I'm <span style="color:#0072ff;">EtheSonX082531</span></h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#0072ff;">EtheSonX082531</span></h1>
 
 <p align="center">
-  🎓 <b>Student</b> | 💻 <b>Aspiring Android Developer</b> | 🚀 <b>Tech Explorer</b>
-</p>
-
-<p align="center">
-  I’m passionate about building mobile apps that solve real-world problems.<br/>
-  Currently working on <b>StayFinder</b> — an Android app for hotel search, reviews, and booking, inspired by GoZayaan.
+  🎓 <b>Student</b> • 💻 <b>Android Developer in progress</b> • 🌱 <b>Lifelong Learner</b><br/>
+  <i>Curious mind with a passion for tech, creativity, and continuous growth.</i>
 </p>
 
 ---
 
-<h2>🛠️ My Tech Stack</h2>
+<h2>⚙️ Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-%23e44d26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+<h2>💡 What I'm Currently Exploring</h2>
 
 <ul>
-  <li><b>Languages:</b> Java, XML</li>
-  <li><b>Mobile Development:</b> Android Studio, Firebase</li>
-  <li><b>Tools & Technologies:</b> Git, GitHub, Firebase Realtime Database, Firebase Auth</li>
-  <li><b>Currently Learning:</b> REST APIs, Material Design, UI/UX for Android apps</li>
+  <li>📱 Advanced Android UI design with Material Design</li>
+  <li>⚙️ Firebase Authentication & Realtime Database</li>
+  <li>🌐 REST APIs and backend integration</li>
+  <li>🎨 Improving app architecture & UX thinking</li>
 </ul>
 
 ---
 
-<h2>🚧 Featured Project</h2>
-
-<h3>📱 StayFinder</h3>
-
-<p>
-  A smart Android app that lets users:
-</p>
-<ul>
-  <li>🏨 Search for hotels</li>
-  <li>✍️ Read and leave reviews</li>
-  <li>📅 Make bookings with real-time updates</li>
-</ul>
-
-<p>
-  <b>Built with:</b> Java, XML, Firebase, and Android Studio <br/>
-  <i>(Live demo, screenshots, or repo link coming soon)</i>
-</p>
-
----
-
-<h2>📊 GitHub Stats</h2>
+<h2>📈 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EtheSonX082531&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EtheSonX082531&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtheSonX082531&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtheSonX082531&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-<h2>🌐 Connect with Me</h2>
+<h2>🧠 Fun Dev Vibes</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</p>
+
+---
+
+<h2>🌐 Let's Connect</h2>
 
 <ul>
-  <li>📧 <b>Email:</b> <a href="mailto:roy082531@gmail.com">roy082531@gmail.com</a></li>
-  <li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/">Your LinkedIn Profile</a></li>
-  <li>🧠 <b>Fun Fact:</b> I love learning by building — every bug is a puzzle waiting to be solved!</li>
+  <li>📧 Email: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/">Your LinkedIn Profile</a></li>
 </ul>
 
 ---
 
-<p align="center"><i>“Code, break, learn, repeat.”</i></p>
+<p align="center"><i>"Code. Break. Learn. Repeat."</i></p>
 
-<!-- Footer Banner -->
+<!-- 🌊 Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 </p>
