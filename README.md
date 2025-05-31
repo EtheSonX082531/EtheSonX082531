@@ -1,73 +1,71 @@
-<!-- 🌊 Animated Header Banner -->
+<!-- 🌊 Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header banner"/>
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#1E90FF;">EtheSonX082531</span></h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#0072ff;">EtheSonX082531</span></h1>
 
 <p align="center">
-  Student • Android Developer (in progress) • Technology Enthusiast
-</p>
-
-<p align="center" style="max-width: 700px;">
-  I'm currently focused on mobile development using <strong>Java</strong> and <strong>XML</strong>, with Firebase integration. I enjoy turning ideas into usable Android applications, and learning modern app design and development practices.
+  🎓 <b>Student</b> • 💻 <b>Android Developer in progress</b> • 🌱 <b>Lifelong Learner</b><br/>
+  <i>Curious mind with a passion for tech, creativity, and continuous growth.</i>
 </p>
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2>⚙️ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-%23e44d26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2>💡 What I'm Currently Exploring</h2>
+
+<ul>
+  <li>📱 Advanced Android UI design with Material Design</li>
+  <li>⚙️ Firebase Authentication & Realtime Database</li>
+  <li>🌐 REST APIs and backend integration</li>
+  <li>🎨 Improving app architecture & UX thinking</li>
+</ul>
+
+---
+
+<h2>📈 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EtheSonX082531&show_icons=true&theme=light&hide_border=false&custom_title=GitHub+Stats" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EtheSonX082531&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtheSonX082531&layout=compact&theme=light&hide_border=false" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtheSonX082531&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-<h2>🔭 Currently Learning</h2>
-
-<ul>
-  <li>Building better Android UIs using Material Design</li>
-  <li>Firebase Realtime Database & Authentication</li>
-  <li>REST API integration in Android apps</li>
-</ul>
-
----
-
-<h2>📬 Contact</h2>
-
-<ul>
-  <li>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/">Your LinkedIn Profile</a></li>
-</ul>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
+<h2>🧠 Fun Dev Vibes</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EtheSonX082531&bg_color=ffffff&color=0072ff&line=1E90FF&point=00BFFF&area=true&hide_border=true" width="90%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
 </p>
 
 ---
 
-<p align="center"><i>"Write code that’s easy to delete, not easy to extend."</i></p>
+<h2>🌐 Let's Connect</h2>
+
+<ul>
+  <li>📧 Email: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/">Your LinkedIn Profile</a></li>
+</ul>
+
+---
+
+<p align="center"><i>"Code. Break. Learn. Repeat."</i></p>
 
 <!-- 🌊 Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 </p>
