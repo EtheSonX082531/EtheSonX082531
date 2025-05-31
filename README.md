@@ -57,7 +57,7 @@
 <h2>🌐 Let's Connect</h2>
 
 <ul>
-  <li>📧 Email: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
+  <li>📧 Email: <a href="mailto:roy082531@gmail.com">roy082531@gmail.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/">Your LinkedIn Profile</a></li>
 </ul>
 
