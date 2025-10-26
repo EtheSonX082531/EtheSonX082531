@@ -1,3 +1,8 @@
+<!-- ✨ HEADER SECTION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:2196f3&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header banner"/>
+</p>
+
 <div align="center">
 
 # 🚀 Welcome to My GitHub Profile
@@ -7,8 +12,7 @@
 
 ---
 
-### 👋 Hello, I'm a Passionate Developer  
-Building projects, learning new technologies, and exploring creative ideas.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=4000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+a+Passionate+Developer;Building+Cool+Projects;Exploring+New+Technologies)
 
 </div>
 
@@ -18,8 +22,9 @@ Building projects, learning new technologies, and exploring creative ideas.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FtZ0de0hZirwfmj1w&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FtZ0de0hZirwfmj1w&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FtZ0de0hZirwfmj1w&show_icons=true&theme=react&hide_border=true&border_radius=10)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FtZ0de0hZirwfmj1w&theme=react&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FtZ0de0hZirwfmj1w&layout=compact&theme=react&hide_border=true&border_radius=10)
 
 </div>
 
@@ -58,9 +63,20 @@ A professional showcase of my work and skills.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01777973215)
+
+</div>
+
+---
+
+## 🕹️ Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FtZ0de0hZirwfmj1w&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -73,6 +89,13 @@ A professional showcase of my work and skills.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=FtZ0de0hZirwfmj1w&color=00bcd4&style=flat-square)
 
-**Thanks for visiting!** ✨
+---
+
+✨ **Thanks for visiting!** ✨  
+*Crafted with 💙 and creativity.*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196f3,100:00bcd4&height=120&section=footer"/>
+</p>
 
 </div>
