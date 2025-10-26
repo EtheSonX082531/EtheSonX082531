@@ -6,13 +6,13 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#0072ff;">Anik Roy</span></h1>
 
 <p align="center">
-  🎓 <b>Student</b> • 💻 <b>Android Developer in progress</b> • 🌱 <b>Lifelong Learner</b><br/>
+  🎓 <b>Student</b> • 💻 <b>Android Developer in Progress</b> • 🌱 <b>Lifelong Learner</b><br/>
   <i>Curious mind with a passion for tech, creativity, and continuous growth.</i>
 </p>
 
 ---
 
-<h2>⚙️ Tech Stack & Tools</h2>
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -25,41 +25,38 @@
 
 ---
 
-<h2>💡 What I'm Currently Exploring</h2>
+## 💡 What I'm Currently Exploring
 
-<ul>
-  <li>📱 Advanced Android UI design with Material Design</li>
-  <li>⚙️ Firebase Authentication & Realtime Database</li>
-  <li>🌐 REST APIs and backend integration</li>
-  <li>🎨 Improving app architecture & UX thinking</li>
-</ul>
+- 📱 Advanced Android UI design with Material Design  
+- ⚙️ Firebase Authentication & Realtime Database  
+- 🌐 REST APIs and backend integration  
+- 🎨 Improving app architecture & UX thinking  
 
 ---
 
-<h2>📈 My GitHub Stats</h2>
+## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EtheSonX082531&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtheSonX082531&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EtheSonX082531&show_icons=true&theme=tokyonight" alt="GitHub Stats"/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtheSonX082531&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-<h2>🧠 Fun Dev Vibes</h2>
+## 🌐 Connect With Me
+
+- 📧 **Email:** [roy082531@gmail.com](mailto:roy082531@gmail.com)  
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)  
+- 💻 **Portfolio:** [https://ethesonx082531.github.io/MyPortFolio/](https://ethesonx082531.github.io/MyPortFolio/)  
+- 🔗 **My Google Share:** [https://share.google/FtZ0de0hZirwfmj1w](https://share.google/FtZ0de0hZirwfmj1w)
+
+---
+
+## 🧠 Fun Dev Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
 </p>
-
----
-
-<h2>🌐 Let's Connect</h2>
-
-<ul>
-  <li>📧 Email: <a href="mailto:roy082531@gmail.com">roy082531@gmail.com</a></li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/">Your LinkedIn Profile</a></li>
-</ul>
 
 ---
 
