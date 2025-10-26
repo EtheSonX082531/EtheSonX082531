@@ -1,16 +1,14 @@
-<!-- 🌊 Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:00ff88&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header banner"/>
-</p>
-
 <div align="center">
 
-# 🚀 Welcome to My GitHub Profile!
+# 🚀 Welcome to My GitHub Profile
 
-[![Portfolio](https://img.shields.io/badge/🌟-Portfolio-ff69b4?style=for-the-badge)](https://ethesonx082531.github.io/MyPortFolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github)](https://github.com/FtZ0de0hZirwfmj1w)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-00bcd4?style=for-the-badge)](https://ethesonx082531.github.io/MyPortFolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292f?style=for-the-badge&logo=github)](https://github.com/FtZ0de0hZirwfmj1w)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=550&lines=Hello+World!+👋;I'm+a+Passionate+Developer;Welcome+to+My+Profile!)
+---
+
+### 👋 Hello, I'm a Passionate Developer  
+Building projects, learning new technologies, and exploring creative ideas.
 
 </div>
 
@@ -20,9 +18,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FtZ0de0hZirwfmj1w&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FtZ0de0hZirwfmj1w&theme=tokyonight&hide_border=true&border_radius=15)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FtZ0de0hZirwfmj1w&theme=tokyonight&hide_border=true&layout=compact&border_radius=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FtZ0de0hZirwfmj1w&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FtZ0de0hZirwfmj1w&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -44,7 +41,20 @@
 
 ---
 
-## 📫 Let's Connect
+## 🌟 Featured Project
+
+<div align="center">
+
+### 🎯 [My Portfolio Website](https://ethesonx082531.github.io/MyPortFolio/)
+A professional showcase of my work and skills.
+
+[![Visit Portfolio](https://img.shields.io/badge/🚀-Visit_Portfolio-00bcd4?style=for-the-badge)](https://ethesonx082531.github.io/MyPortFolio/)
+
+</div>
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -56,43 +66,13 @@
 
 ---
 
-## 🌟 Featured Projects
-
 <div align="center">
 
-### 🎯 [My Portfolio](https://ethesonx082531.github.io/MyPortFolio/)
-**A professional portfolio showcasing my work and skills**
+### ⚡ Fun Fact
+> “The best way to predict the future is to invent it.” — *Alan Kay*
 
-[![Visit Portfolio](https://img.shields.io/badge/🚀-Visit_Portfolio-00ff88?style=for-the-badge)](https://ethesonx082531.github.io/MyPortFolio/)
+![Visitor Count](https://komarev.com/ghpvc/?username=FtZ0de0hZirwfmj1w&color=00bcd4&style=flat-square)
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FtZ0de0hZirwfmj1w&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ **Fun Fact**
-> *"The best way to predict the future is to invent it." - Alan Kay*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=FtZ0de0hZirwfmj1w&color=00FFAA&style=for-the-badge)
-
----
-
-✨ **Thanks for visiting!** ✨  
-*Crafted with 💚 and curiosity.*
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00c6ff&height=120&section=footer"/>
-</p>
+**Thanks for visiting!** ✨
 
 </div>
