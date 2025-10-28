@@ -1,6 +1,6 @@
 # Anik Roy (EtheSonX082531)
 
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-blue?style=for-the-badge&logo=🎨)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-blue?style=for-the-badge&logo=🎨)](https://ethesonx082531.github.io/MyPortFolio/)
 
 ## 👋 About Me  
 I’m **Anik Roy**, a student from Sylhet, Bangladesh, and an aspiring developer who is constantly learning and exploring new technologies. I enjoy working with C, C++, Java, and Python — and I’m always excited to take on new challenges and build meaningful projects.
