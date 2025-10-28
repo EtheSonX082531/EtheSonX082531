@@ -6,7 +6,7 @@
 <div align="center">
 
 ## 👋 Hi, I'm **Anik Roy**
-**Full Stack Developer • Problem Solver • Tech Enthusiast**
+**Learning Developer • Problem Solver • Tech Enthusiast**
 
 I build efficient, aesthetic, and user-centered digital experiences  
 with a focus on performance, design, and real-world impact.
