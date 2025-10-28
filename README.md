@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=180&section=header&text=Anik%20Roy&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=40" alt="header"/>
 </p>
 
-<div align="center">
+<!-- ✨ Animated Background Wrapper -->
+<div align="center" style="background: url('https://raw.githubusercontent.com/ethesonx082531/ethesonx082531/main/assets/animated-bg.gif'); background-size: cover; padding: 20px; border-radius: 12px;">
 
 ## 👋 Hi, I'm **Anik Roy**
 **Learning Developer • Problem Solver • Tech Enthusiast**
