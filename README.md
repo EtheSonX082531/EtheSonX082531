@@ -17,7 +17,7 @@ with a focus on performance, design, and real-world impact.
 
 ---
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3800&pause=1200&color=00B8D9&center=true&vCenter=true&width=600&lines=Building+Modern+and+Meaningful+Web+Experiences;MERN+Stack+Developer;Always+Learning+and+Creating)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3800&pause=1200&color=00B8D9&center=true&vCenter=true&width=600&lines=Building+Modern+and+Meaningful+App+Experience;Flutter+DartDeveloper;Always+Learning+and+Creating)
 
 </div>
 
