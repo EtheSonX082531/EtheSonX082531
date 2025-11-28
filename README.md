@@ -32,7 +32,7 @@ Feel free to explore more on my GitHub repositories.
 | Platform     | Link |
 |--------------|------|
 | Facebook     | [Profile](https://www.facebook.com/profile.php?id=61552557272815&mibextid=ZbWKwL) |
-| Email        | your.email@example.com |
+| Email        | roy082531@gmail.com |
 | LinkedIn     | [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) |
 
 ---
