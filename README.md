@@ -1,50 +1,80 @@
-# Anik Roy (EtheSonX082531)
+# Hi there 👋, I'm Anik Roy (EtheSonX082531)
 
 [![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-blue?style=for-the-badge&logo=🎨)](https://ethesonx082531.github.io/MyPortFolio/)
-
-## 👋 About Me  
-I’m **Anik Roy**, a student from Sylhet, Bangladesh, and an aspiring developer who is constantly learning and exploring new technologies. I enjoy working with C, C++, Java, and Python — and I’m always excited to take on new challenges and build meaningful projects.
-
----
-
-## 🔧 Skills  
-- **Languages:** C, C++, Java, Python  
-- **Areas of interest:** Data Structures & Algorithms, Competitive Programming, Full-Stack Development  
-- **Tools:** Git & GitHub, VS Code, Command Line  
-- **Mindset:** Curious, self-motivated, committed to continuous improvement
+[![GitHub followers](https://img.shields.io/github/followers/EtheSonX082531?style=for-the-badge)](https://github.com/EtheSonX082531?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:roy082531@gmail.com)
 
 ---
 
-## 📂 Projects & Repositories  
-Here are a few highlights from my GitHub:
-
-| Project | Description |
-|---------|-------------|
-| **CODEFORCES-PROBLEMS-SOLUTION-BY-ANIK** | A collection of solved problems on Codeforces using C++. |
-| **DSA-CODES-BY-ANIK** | Data-structures & algorithms implementations (sorting, searching, linked list, stacks, etc.). |
-| **NOTES** | A repository containing notes and config files to support my learning. |
-
-Feel free to explore more on my GitHub repositories.
+## 👨‍💻 About Me
+I’m **Anik Roy**, a student from Sylhet, Bangladesh, and an aspiring developer constantly learning and exploring new technologies.  
+I enjoy working with **C, C++, Java, Python** and have a strong passion for **DSA, Competitive Programming, and Full-Stack Development**.
 
 ---
 
-## 📬 Connect with Me  
-| Platform     | Link |
-|--------------|------|
-| Facebook     | [Profile](https://www.facebook.com/profile.php?id=61552557272815&mibextid=ZbWKwL) |
-| Email        | roy082531@gmail.com |
-| LinkedIn     | [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) |
+## 🛠️ Skills
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### Areas of Interest
+- Data Structures & Algorithms  
+- Competitive Programming  
+- Full-Stack Web Development  
+- Problem Solving & Logical Thinking  
 
 ---
 
-## 🎯 What’s Next  
-I’m working on refining my full‐stack development skills and building a portfolio of real-world applications. I’m always open to collaboration, mentorship, and new opportunities — let’s connect!
+## 📂 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **CODEFORCES-PROBLEMS-SOLUTION-BY-ANIK** | Solved problems on Codeforces using C++. | [Repo](https://github.com/EtheSonX082531/CODEFORCES-PROBLEMS-SOLUTION-BY-ANIK) |
+| **DSA-CODES-BY-ANIK** | Data Structures & Algorithms implementations (Sorting, Searching, LinkedList, Stacks, etc.). | [Repo](https://github.com/EtheSonX082531/DSA-CODES-BY-ANIK) |
+| **NOTES** | Notes & configuration files to support learning. | [Repo](https://github.com/EtheSonX082531/NOTES) |
+
+Explore more projects on my [GitHub](https://github.com/EtheSonX082531).
 
 ---
+
+## 📬 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552557272815&mibextid=ZbWKwL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roy082531@gmail.com)
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EtheSonX082531&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtheSonX082531&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🐍 GitHub Contributions (Snake Animation)
+
+![snake animation](https://raw.githubusercontent.com/EtheSonX082531/EtheSonX082531/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 Goals & Next Steps
+- Refining **full-stack development skills**  
+- Building a **portfolio of real-world applications**  
+- Open to **collaboration, mentorship, and new opportunities**  
 
 > “Curiosity is the engine of achievement.”  
-> — Anik Roy
+> — **Anik Roy**
 
 ---
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! 🚀
