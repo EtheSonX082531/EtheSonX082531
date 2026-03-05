@@ -2,36 +2,27 @@
 
 [![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-blue?style=for-the-badge&logo=🎨)](https://ethesonx082531.github.io/MyPortFolio/)
 [![GitHub followers](https://img.shields.io/github/followers/EtheSonX082531?style=for-the-badge)](https://github.com/EtheSonX082531?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:roy082531@gmail.com)
 
 ---
 
 ## 👨‍💻 About Me
 I’m **Anik Roy**, a student from Sylhet, Bangladesh, and an aspiring developer constantly learning and exploring new technologies.  
-I enjoy working with **C, C++, Java, Python** and have a strong passion for **DSA, Competitive Programming, and Full-Stack Development**.
+I enjoy **C, C++, Java, Python** and have a strong passion for **DSA, Competitive Programming, and Full-Stack Development**.
 
 ---
 
 ## 🛠️ Skills
 
-### Programming Languages
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Technologies
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-### Areas of Interest
-- Data Structures & Algorithms  
-- Competitive Programming  
-- Full-Stack Web Development  
-- Problem Solving & Logical Thinking  
 
 ---
 
@@ -40,10 +31,10 @@ I enjoy working with **C, C++, Java, Python** and have a strong passion for **DS
 | Project | Description | Link |
 |---------|-------------|------|
 | **CODEFORCES-PROBLEMS-SOLUTION-BY-ANIK** | Solved problems on Codeforces using C++. | [Repo](https://github.com/EtheSonX082531/CODEFORCES-PROBLEMS-SOLUTION-BY-ANIK) |
-| **DSA-CODES-BY-ANIK** | Data Structures & Algorithms implementations (Sorting, Searching, LinkedList, Stacks, etc.). | [Repo](https://github.com/EtheSonX082531/DSA-CODES-BY-ANIK) |
-| **NOTES** | Notes & configuration files to support learning. | [Repo](https://github.com/EtheSonX082531/NOTES) |
+| **DSA-CODES-BY-ANIK** | Data Structures & Algorithms implementations. | [Repo](https://github.com/EtheSonX082531/DSA-CODES-BY-ANIK) |
+| **NOTES** | Notes & configs to support learning. | [Repo](https://github.com/EtheSonX082531/NOTES) |
 
-Explore more projects on my [GitHub](https://github.com/EtheSonX082531).
+Explore more on my [GitHub](https://github.com/EtheSonX082531).
 
 ---
 
@@ -61,20 +52,20 @@ Explore more projects on my [GitHub](https://github.com/EtheSonX082531).
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtheSonX082531&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🐍 GitHub Contributions (Snake Animation)
+---
 
-![snake animation](https://raw.githubusercontent.com/EtheSonX082531/EtheSonX082531/output/github-contribution-grid-snake.svg)
+## 🐍 Contributions (Snake Animation)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EtheSonX082531/EtheSonX082531/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> **Note:** The above snake animation is powered by [github-readme-snake](https://github.com/Platane/snk).
 
 ---
 
 ## 🎯 Goals & Next Steps
-- Refining **full-stack development skills**  
-- Building a **portfolio of real-world applications**  
+- Improving **full-stack development skills**  
+- Building a **portfolio of real-world projects**  
 - Open to **collaboration, mentorship, and new opportunities**  
 
-> “Curiosity is the engine of achievement.”  
-> — **Anik Roy**
-
----
-
-Thanks for visiting my profile! 🚀
+> “Curiosity is the engine of achievement.” — **Anik Roy**
