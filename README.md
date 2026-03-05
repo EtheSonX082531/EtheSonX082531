@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 I’m **Anik Roy**, a student from Sylhet, Bangladesh, and an aspiring developer constantly learning and exploring new technologies.  
-I enjoy **C, C++, Java, Python** and have a strong passion for **DSA, Competitive Programming, and Full-Stack Development**.
+I enjoy **C, C++, Java, Python** and have a strong passion for **Data Structures & Algorithms, Competitive Programming, and Full-Stack Development**.
 
 ---
 
@@ -19,10 +19,17 @@ I enjoy **C, C++, Java, Python** and have a strong passion for **DSA, Competitiv
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### Areas of Interest
+- Data Structures & Algorithms  
+- Competitive Programming  
+- Full-Stack Web Development  
+- Problem Solving & Logical Thinking  
 
 ---
 
@@ -54,12 +61,13 @@ Explore more on my [GitHub](https://github.com/EtheSonX082531).
 
 ---
 
-## 🐍 Contributions (Snake Animation)
+## 🐍 GitHub Contributions (Snake Animation)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EtheSonX082531/EtheSonX082531/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/EtheSonX082531/EtheSonX082531/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
-> **Note:** The above snake animation is powered by [github-readme-snake](https://github.com/Platane/snk).
+> **Note:** The snake animation is powered by [github-readme-snake](https://github.com/Platane/snk) and updates automatically using GitHub Actions.
 
 ---
 
